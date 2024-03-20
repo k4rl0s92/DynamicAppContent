@@ -1,4 +1,19 @@
-{"text": {
-  "erster": "Dies ist Text 1",
-  "zweiter": "Dies ist Text 2"}
+{"InfoButtonTexte": {
+  "PN": {
+    "title": "Pferdenote",
+    "text": "Die Pferdenote lässt sich entweder über die Slider einstellen oder per direkter Eingabe der Zahlen als Note. Hierzu muss die Zifferneingabe in den Einstellungen aktiviert werden.\nNun kann die Note auf zwei Arten eingegeben werden:\n\n1. Als ganz normale Dezimalzahl: Beispielsweise: '7,45'.\n\n2. Als Ziffernfolge:\nIn diesem Fall wird die Note erkannt und nach Verlassen des Eingabefeldes korrigiert: aus '8654' wird automatisch '8,654'."
+  },
+  "SA": {
+    "title": "Schwierigkeit & Ausführung",
+    "text": "Der Text für Schwierigkeit & Ausführung kommt hier rein"
+  },
+  "G": {
+    "title": "Gestaltung",
+    "text": "Der Text für die Gestaltung kommt hier rein"
+  },
+  "T": {
+    "title": "Technik-Programm",
+    "text": "Der Text für das Technik-Programm kommt hier rein"
+  }
+}
 }
