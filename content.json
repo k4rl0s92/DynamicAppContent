@@ -1,7 +1,20 @@
 {"InfoButtonTexte": {
   "PN": {
     "title": "Pferdenote",
-    "text": "Die Pferdenote lässt sich entweder über die Slider einstellen oder per direkter Eingabe der Zahlen als Note. Hierzu muss die Zifferneingabe in den Einstellungen aktiviert werden.\nNun kann die Note auf zwei Arten eingegeben werden:\n\n1. Als ganz normale Dezimalzahl: Beispielsweise: '7,45'.\n\n2. Als Ziffernfolge:\nIn diesem Fall wird die Note erkannt und nach Verlassen des Eingabefeldes korrigiert: aus '8654' wird automatisch '8,654'."
+    "text": "Zunächst sollte der Pferdename eingetragen werden.
+
+In der Standard-Einstellung werden die Teilnoten mittels Slidern vergeben. Um die „Empfindlichkeit“ der Slider anzupassen, kann in den Einstellungen zwischen den Intervallgrößen 0-10 und 4-9 gewählt werden.
+
+Alternativ können die Noten per direkter Eingabe der Zahlen mittels Tastatur eingetragen werden. Hierzu muss die Zifferneingabe in den Einstellungen aktiviert werden.
+Nun kann die Noteneintragung auf zwei Art erfolgen:
+1)	Als normale Dezimalzahl: z.B. „7,5“
+2)	Als Ziffernfolge: In diesem Fall wird die Note erkannt und nach Verlassen des Eingabefeldes mit einem Komma korrigiert: z.B. „85“ wird automatisch zu 8,5
+
+In A2 und A3 gibt es die Möglichkeit entsprechende Abzüge zu vergeben und mögliche Gründe zu vermerken. Das blaue X löscht die Abzüge.
+
+Nach der Berechnung besteht die Möglichkeit den Datensatz (Name, Teilnoten, Endnote) in einer geräteinternen Datenbank (nur auf dem Gerät) zu speichern. Dazu bitte auf den grünen Speicher-Button in der Ecke oben rechts drücken.
+
+Oben links in der Ecke kann die komplette Eingabe zurückgesetzt werden."
   },
   "SA": {
     "title": "Schwierigkeit & Ausführung",
